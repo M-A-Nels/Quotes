@@ -8,7 +8,7 @@
 .Quotes_Gen{
   background-color: #f8f9fa;
   padding: 1rem;
-  border-radius: 5px;
+  border-radius: 0.5rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   color: #000;
 }
@@ -16,6 +16,9 @@
 .Quotes_Gen h1{
   font-size: 2rem;
   margin-bottom: 1rem;
+  background-color: #3da356;
+  padding: 1rem;
+  border-radius: 5em;
 }
 
 .Quotes_Gen button{
@@ -36,9 +39,12 @@
 .Quotes_Gen p{
   font-size: 1.5rem;
   margin-top: 1rem;
-  color: plum;
+  color: rgb(196, 196, 196);
   font-weight: 800;
   font-family: 'Courier New', Courier, monospace;
+  background-color: #2f1ecc;
+  padding: 1rem;
+  border-radius: 5em;
 
 }
 
